@@ -2,5 +2,5 @@
 -  >_ say- I’m a Graphics Designer & Newbie at UI, UX Design.. >> ERROR Detected at String_#2;/
 -  >_ reboot_&_Say: I’m also a @StellarOS Lead Designer!
 -  >_ inform; you_can_reach-me //by-messaging_to - qirkldesign@gmail.com
--  >_ taskill/;qirkl.md, >_ shutting_down-qirkl.exe
+-  >_ taskill/;qirkl.md, >_ shutting_down-qirkl.md
 -   qirkl_says - goodbye_and_have-a_nice_day! :-)
