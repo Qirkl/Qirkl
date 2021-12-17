@@ -1,2 +1,1 @@
--  >_ greetings; Hi, I’m @Qirkl_/countinue,
--  >_ say- I’m a Graphics Designer.
+better readme fairly soon :/
