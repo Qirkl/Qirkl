@@ -1,1 +1,1 @@
-better readme fairly soon :/
+print('Hello world')
