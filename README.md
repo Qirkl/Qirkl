@@ -5,4 +5,4 @@
 </p>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Qirkl/Qirkl/main/yetanotherfinal.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Qirkl/Qirkl/assets/82781802/0ef69687-f655-4233-9135-e6d288092cdd');]{x0000}$}
